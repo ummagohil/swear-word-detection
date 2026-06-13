@@ -14,7 +14,7 @@ Speech to text app that beeps out the swearing.
 - React
 - Next.js 
 
-### 🔧How to Run the App
+### 👀View App
 
 
 ### 💭Future Improvements
